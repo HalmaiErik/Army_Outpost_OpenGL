@@ -83,11 +83,6 @@ bool toRight = false;
 float dogX = -3.0f;
 float dogZ = -1.0f;
 
-bool toFront = true;
-bool toBack = false;
-float soldierX = 5.0f;
-float soldierZ = -4.0f;
-
 bool move = false;
 gps::MOVE_DIRECTION pressedDir;
 gps::MOVE_DIRECTION reverseDir;
